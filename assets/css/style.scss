@@ -1,0 +1,27 @@
+---
+---
+
+@import 'jekyll-theme-architect';
+
+menu {
+  float: left;
+  width: 690px;
+}
+
+header a { color: white; }
+header a:hover { color: white; color: #8BD3FF;  }
+.mymenu {
+  font-size: 22px;
+  padding-top: 20px;
+}
+
+.menu-link {
+  padding-right: 8px;
+  padding-left: 8px;
+  border-right: 1px solid #8BD3FF; 
+}
+
+.menu-link-last {
+  padding-right: 8px;
+  padding-left: 8px;
+}

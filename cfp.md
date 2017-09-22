@@ -23,7 +23,7 @@ Through invited talks, oral and poster presentations by the participants, this w
 We welcome submissions up to 6 pages for both the submission and camera ready versions*
 * All submissions must be in PDF format and should follow the NIPS 2017 format: https://nips.cc/Conferences/2017/PaperInformation/StyleFiles
 * Submissions do not have to be anonymized
-* Please submit your abstract no later than October 20, 2017 using CMT: <https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FASWSOSP2017>
+* Please submit your abstract no later than October 20, 2017 using CMT: <https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FMLSYS2017>
 
 ## Important Dates
 * Poster Abstract Submission Deadline: October 20, 2017, 11.59pm PST

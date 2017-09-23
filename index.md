@@ -8,7 +8,7 @@ A new area is emerging at the intersection of artificial intelligence, machine l
 
 This workshop will follow the successful model we have previously run with the ML Systems Workshops @ [NIPS](https://sites.google.com/site/mlsysnips2016/) and [ICML](https://sites.google.com/site/mlsys2016/), and [SOSP](http://learningsys.org/sosp17/)
 
-## Call for Posters
+## Call for Papers
 
 We invite participation in the ML Systems Workshop which will be held in conjunction with NIPS 2017 on December 8, 2017 in Long Beach, California.
 

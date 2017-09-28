@@ -20,6 +20,7 @@ We invite participation in the ML Systems Workshop which will be held in conjunc
 ## Organizing Committee
 + Sarah Bird, Facebook Research <slbird@fb.com>
 + Dan Crankshaw, UC Berkeley <crankshaw@cs.berkeley.edu>
++ Garth Gibson, CMU and Vector Institute, <garth@cs.cmu.edu>
 + Joseph Gonzalez, UC Berkeley, <jegonzal@berkeley.edu>
 + Aparna Lakshmiratan, Facebook, <aparnal@fb.com>
 + Li Erran Li, Uber, <erranli@uber.com>

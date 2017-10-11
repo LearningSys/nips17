@@ -25,7 +25,7 @@ We welcome submissions up to 6 pages (not including references) for both the sub
 * Submissions do not have to be anonymized
 * Please submit your abstract no later than October 20, 2017 using CMT: [submission link](https://urldefense.proofpoint.com/v2/url?u=https-3A__cmt3.research.microsoft.com_MLSYS2017&d=DwIGaQ&c=5VD0RTtNlTh3ycd41b3MUw&r=jkIV1ekX5UbLBHAbbnf20g&m=etgua9_RnubL9Pqqvt1clQTBkpIIR-Vt5dTgaC6j4ms&s=dC7lpB-28jMCa3cCHP7rUptXynWKKDDxCyp-cz5--Eg&e=)
 ## Important Dates
-* Poster Abstract Submission Deadline: October 20, 2017, 11.59pm PST
+* Submission Deadline: October 20, 2017, 11.59pm PST
 * Acceptance Notifications: November 1, 2017
 * Final File Upload: November 22, 2017
 * Workshop: December 8, 2017

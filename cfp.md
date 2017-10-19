@@ -20,10 +20,10 @@ We welcome high quality papers summarizing work in the broad area of large scale
  
 Through invited talks, oral and poster presentations by the participants, this workshop will showcase the latest advances in machine learning systems and address challenges at the intersection of Machine Learning and System Design.
 ## Submission Instructions
-We welcome submissions up to 6 pages (not including references) for both the submission and camera ready versions*
+We welcome submissions of up to 6 pages (not including references).
 * All submissions must be in PDF format and should follow the NIPS 2017 format: https://nips.cc/Conferences/2017/PaperInformation/StyleFiles
 * Submissions do not have to be anonymized
-* Please submit your abstract no later than October 20, 2017 using CMT: [submission link](https://urldefense.proofpoint.com/v2/url?u=https-3A__cmt3.research.microsoft.com_MLSYS2017&d=DwIGaQ&c=5VD0RTtNlTh3ycd41b3MUw&r=jkIV1ekX5UbLBHAbbnf20g&m=etgua9_RnubL9Pqqvt1clQTBkpIIR-Vt5dTgaC6j4ms&s=dC7lpB-28jMCa3cCHP7rUptXynWKKDDxCyp-cz5--Eg&e=)
+* Please submit your paper no later than October 25, 2017 using CMT: [submission link](https://urldefense.proofpoint.com/v2/url?u=https-3A__cmt3.research.microsoft.com_MLSYS2017&d=DwIGaQ&c=5VD0RTtNlTh3ycd41b3MUw&r=jkIV1ekX5UbLBHAbbnf20g&m=etgua9_RnubL9Pqqvt1clQTBkpIIR-Vt5dTgaC6j4ms&s=dC7lpB-28jMCa3cCHP7rUptXynWKKDDxCyp-cz5--Eg&e=)
 ## Important Dates
 * Submission Deadline **EXTENDED**: October 25, 2017, 11.59pm PST
 * Acceptance Notifications: November 6, 2017

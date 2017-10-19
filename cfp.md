@@ -2,10 +2,10 @@
 We invite participation in the ML Systems Workshop which will be held in conjunction with NIPS 2017 on December 8, 2017 in Long Beach, California.
 
 ## Overview
+
+The goal of this workshop is to bring together experts working at the crossroads of machine learning, system design and software engineering to explore the challenges faced when building practical large-scale ML systems. In particular, we aim to elicit new connections among these fields, and identify tools, best practices and design principles. The workshop will cover ML and AI platforms and algorithm toolkits (Caffe 2.0, Tensor Flow, Torch etc), as well as dive into ML focused developments in various systems topics.
  
-The goal of this workshop is to bring together experts working at the crossroads of ML, system design and software engineering to explore the challenges faced when building practical large-scale machine learning systems. In particular, we aim to elicit new connections among these diverse fields, identify tools, best practices and design principles. The workshop will cover ML and AI platforms and algorithm toolkits (Caffe 2.0, Tensor Flow, Torch etc), as well as dive into Machine learning focused developments in distributed learning platforms, programming languages, data structures and general purpose GPU programming.
- 
-We welcome high quality papers summarizing work in the broad area of large scale systems and software design for machine learning.   A few (non-exhaustive) topics of interest include
+We welcome high quality submissions in the broad area of large scale systems and software design for machine learning.   A few (non-exhaustive) topics of interest include:
 * Systems for training and serving machine learning models at scale
 * Systems for online and batch learning algorithms
 * Systems for out-of-core machine learning
@@ -18,7 +18,7 @@ We welcome high quality papers summarizing work in the broad area of large scale
 * Interactive machine learning systems
 * Benchmarking systems (for machine learning algorithms)
  
-Through invited talks, oral and poster presentations by the participants, this workshop will showcase the latest advances in machine learning systems and address challenges at the intersection of Machine Learning and System Design.
+Through invited talks as well as oral and poster presentations by the participants, this workshop will showcase the latest advances in machine learning systems and address challenges at the intersection of machine learning and system design.
 ## Submission Instructions
 We welcome submissions of up to 6 pages (not including references).
 * All submissions must be in PDF format and should follow the NIPS 2017 format: https://nips.cc/Conferences/2017/PaperInformation/StyleFiles

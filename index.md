@@ -12,8 +12,8 @@ This workshop will follow the successful model we have previously run with the M
 
 We invite participation in the ML Systems Workshop which will be held in conjunction with NIPS 2017 on December 8, 2017 in Long Beach, California.
 
-* **Submission Deadline:** October 20, 2017
-* **Author Notification Deadline:** November 1, 2017
+* **Submission Deadline: EXTENDED** October 25, 2017
+* **Author Notification Deadline:** November 6, 2017
 * **Submission Details:** Submissions can be up to 6 pages (not including references) and do not have to be anonymized.  All submissions must be in PDF format and should follow the NIPS 2017 format: https://nips.cc/Conferences/2017/PaperInformation/StyleFiles.
 
 

@@ -1,4 +1,5 @@
 **Welcome**  
+
 08:45     09:00        Opening remarks
 
 **Session 1**
@@ -28,7 +29,6 @@ Posters & Coffee
 
 
 **Lunch**
-12:10     13:30       Lunch
 
 
 **Session 4: ML Systems Updates**  

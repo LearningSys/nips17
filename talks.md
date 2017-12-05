@@ -1,5 +1,17 @@
 ## Invited Talks
 
+**Sarah Bird** (Facebook)
+
+Title:
+Creating an Open and Flexible ecosystem for AI models with ONNX
+
+Bio:
+Sarah is a Technical Program Manager in Facebook AI Research and the Applied Machine Learning lab.  She leads strategicprojects at the intersection of research and product.  
+
+Bio:
+Dmytro Dzhulgakov
+Dmytro is an Engineering Lead at Applied Machine Learning group. He worked on large scale deep learning for recommendation systems and now focuses on deep learning interoperability and ONNX.
+
 **Jeff Dean** (Google Brain)
 
 Title:
@@ -11,16 +23,6 @@ learning.  Some work uses machine learning to guide and improve computer systems
 work involves the construction of computer systems hardware and software to build more
 powerful and flexible platforms for expressing and scaling machine learning work.  This is
 joint work with many people at Google.
-
-***
-
-**Virginia Smith** (Stanford University)
-
-Title:
-Federated Multi-Task Learning
-
-Abstract:
-Federated learning poses new statistical and systems challenges in training machine learning models over distributed networks of devices. In this work, we show that multi-task learning is naturally suited to handle the statistical challenges of this setting, and propose a novel systems-aware optimization method, MOCHA, that is robust to practical systems issues. Our method and theory for the first time consider issues of high communication cost, stragglers, and fault tolerance for distributed multi-task learning. The resulting method achieves significant speedups compared to alternatives in the federated setting, as we demonstrate through simulations on real-world federated datasets.
 
 ***
 
@@ -37,6 +39,19 @@ Daniel Lo is a senior research hardware design engineer at Microsoft Research wo
 
 ***
 
+**Virginia Smith** (Stanford University)
+
+Title:
+Federated Multi-Task Learning
+
+Abstract:
+Federated learning poses new statistical and systems challenges in training machine learning models over distributed networks of devices. In this work, we show that multi-task learning is naturally suited to handle the statistical challenges of this setting, and propose a novel systems-aware optimization method, MOCHA, that is robust to practical systems issues. Our method and theory for the first time consider issues of high communication cost, stragglers, and fault tolerance for distributed multi-task learning. The resulting method achieves significant speedups compared to alternatives in the federated setting, as we demonstrate through simulations on real-world federated datasets.
+
+Bio:
+Virginia Smith is a postdoctoral researcher in the Computer Science Department at Stanford University. In Fall 2018, she will join Carnegie Mellon University as an assistant professor in Electrical and Computer Engineering. Her research interests are at the intersection of machine learning, optimization, and distributed systems. She has been the recipient of the NSF Graduate Research Fellowship, Google Anita Borg Memorial Scholarship, NDSEG Fellowship, and MLConf Industry Impact Award. Prior to Stanford, Virginia received a Ph.D. from UC Berkeley and undergraduate degrees from the University of Virginia.
+
+***
+
 ## ML Systems Updates
 
 **Tianqi Chen** (University of Washington)
@@ -44,25 +59,36 @@ Daniel Lo is a senior research hardware design engineer at Microsoft Research wo
 Bio:
 Tianqi is a PhD student in University of Washington, working on machine learning and systems. He received his bachelor and master degrees from Shanghai Jiao Tong University. He is recipient of a Google PhD Fellowship in Machine Learning.
 
-**Rajat Monga**
+**Soumith Chintala** (Facebook)
+
+Bio: 
+Soumith is a Research Engineer at Facebook AI Research. He works on high performance deep learning.
+
+
+**Rajat Monga** (Google Brain)
 
 Bio:
 Rajat Monga leads TensorFlow at the Google Brain team. As a founding member of the team he has been involved in co-designing and co-implementing DistBelief and more recently TensorFlow, an open source machine learning system. Prior to this role, he led teams in AdWords, built out the engineering teams and co-designed web scale crawling and content-matching infrastructure at Attributor, co-implemented and scaled eBay’s search engine and designed and implemented complex server systems across a number of startups. Rajat received a B.Tech. in Electrical Engineering from Indian Institute of Technology, Delhi.
+
+**Kai Sheng Tai** (Stanford University)
+
+Bio:
+Kai Sheng Tai is a Ph.D. student at Stanford University, advised by Peter Bailis in the Future Data Systems group. Kai Sheng's primary interests are in representation learning and in approximation methods for efficient training and prediction. He received an MS in Computer Science from Stanford in 2015, during which he worked in the Stanford NLP Group, and an AB in Physics from Princeton in 2013.
 
 **Andrew Tulloch** (Facebook)
 
 Bio:
 Andrew Tulloch is a tech lead on Facebook's Applied Machine Learning team, focusing on the high performance ML/DL systems in mobile and server settings that power Facebook's ML applications. Before AML, he worked on FAIR and Ads Optimization at Facebook, and graduated from the University of Cambridge with a masters in mathematics.
 
-**Cha Zhang** (Microsoft)
-
-Bio:
-Dr. Cha Zhang is a Principal Applied Scientist Manager at Microsoft AI & Research. He received the B.S. and M.S. degrees from Tsinghua University, Beijing, China in 1998 and 2000, respectively, both in Electronic Engineering, and the Ph.D. degree in Electrical and Computer Engineering from Carnegie Mellon University, in 2004. Before joining the CNTK team, he spent over 10 years developing audio/image/video processing and machine learning techniques, and has published over 80 technical papers and held 30+ US patents. He won the best paper award at ICME 2007 and the best student paper award at ICME 2010. He was the Program Co-Chair for VCIP 2012, and the General Co-Chair for ICME 2016. He currently serves as an Associate Editor for IEEE Trans. on Circuits and Systems for Video Technology, and IEEE Trans. on Multimedia.
-
 **Manasi Vartak** (MIT)
 
 Bio:
 Manasi Vartak is a PhD Student in the Database Group at MIT CSAIL, advised by Samuel Madden. Her research focuses on software systems for machine learning including tools to manage and debug ML models.  She is the creator of ModelDB, an open-source system to manage models across different ML environments. She has also worked on deep learning for Twitter content recommendation and automated data visualization. Manasi is a recipient of the Facebook PhD Fellowship and the Google Anita Borg Scholarship.
+
+**Cha Zhang** (Microsoft)
+
+Bio:
+Dr. Cha Zhang is a Principal Applied Scientist Manager at Microsoft AI & Research. He received the B.S. and M.S. degrees from Tsinghua University, Beijing, China in 1998 and 2000, respectively, both in Electronic Engineering, and the Ph.D. degree in Electrical and Computer Engineering from Carnegie Mellon University, in 2004. Before joining the CNTK team, he spent over 10 years developing audio/image/video processing and machine learning techniques, and has published over 80 technical papers and held 30+ US patents. He won the best paper award at ICME 2007 and the best student paper award at ICME 2010. He was the Program Co-Chair for VCIP 2012, and the General Co-Chair for ICME 2016. He currently serves as an Associate Editor for IEEE Trans. on Circuits and Systems for Video Technology, and IEEE Trans. on Multimedia.
 
 ***
 

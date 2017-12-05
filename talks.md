@@ -6,7 +6,6 @@ Title:
 Creating an Open and Flexible ecosystem for AI models with ONNX
 
 Abstract:
-
 In this talk, we will present ONNX, a new, open, flexible standard for representing deep learning models.  We will talk about how we’re using ONNX at Facebook to take models from research to production. We’ll also discuss some of our next generation framework research and what we’re doing to rethink framework design.
 
 Bios:

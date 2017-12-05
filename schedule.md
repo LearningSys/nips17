@@ -33,7 +33,7 @@ Posters & Coffee
 
 **Session 4: ML Systems Updates**  
 
-13:30     14:50       Updates from Current ML Systems: TensorFlow, PyTorch, Caffe2, CNTK, MXNet, TVM, Clipper, MacroBase
+13:20     14:50       Updates from Current ML Systems: TensorFlow, PyTorch, Caffe2, CNTK, MXNet, TVM, Clipper, MacroBase, ModelDB
 
 
 

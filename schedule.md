@@ -34,7 +34,7 @@
 
 ### Session 4: ML Systems Updates
 
-13:20 - 14:50 &nbsp;&nbsp;&nbsp;    Updates from Current ML Systems: TensorFlow, PyTorch, Caffe2, CNTK, MXNet, TVM, Clipper, MacroBase
+13:20 - 14:50 &nbsp;&nbsp;&nbsp;    Updates from Current ML Systems: TensorFlow, PyTorch, Caffe2, CNTK, MXNet, TVM, Clipper, MacroBase, ModelDB
 
 
 ### Session 5

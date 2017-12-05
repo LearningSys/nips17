@@ -1,4 +1,4 @@
-## Invited talks
+## Invited Talks
 
 **Jeff Dean** (Google Brain)
 

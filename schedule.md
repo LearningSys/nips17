@@ -28,7 +28,7 @@
 
 ***
 
-12:10 - 13:20 &nbsp;&nbsp;&nbsp;    Lunch
+12:10 - 13:20 &nbsp;&nbsp;&nbsp;    Lunch (Optional Vowpal Wabbit [tutorial](http://hunch.net/?p=8305306) by John Langford from 12:30 - 13:20, hosted by [Extreme Classification](http://manikvarma.org/events/XC17/index.html) workshop)
 
 ***
 

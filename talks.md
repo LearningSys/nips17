@@ -1,14 +1,17 @@
 ## Invited Talks
 
-**Sarah Bird** (Facebook)
+**Sarah Bird**, **Dmytro Dzhulgakov** (Facebook)
 
 Title:
 Creating an Open and Flexible ecosystem for AI models with ONNX
 
-Bio:
+Abstract:
+
+In this talk, we will present ONNX, a new, open, flexible standard for representing deep learning models.  We will talk about how we’re using ONNX at Facebook to take models from research to production. We’ll also discuss some of our next generation framework research and what we’re doing to rethink framework design.
+
+Bios:
 Sarah is a Technical Program Manager in Facebook AI Research and the Applied Machine Learning lab.  She leads strategicprojects at the intersection of research and product.  
 
-Bio:
 Dmytro Dzhulgakov
 Dmytro is an Engineering Lead at Applied Machine Learning group. He worked on large scale deep learning for recommendation systems and now focuses on deep learning interoperability and ONNX.
 

@@ -92,6 +92,11 @@ Manasi Vartak is a PhD Student in the Database Group at MIT CSAIL, advised by Sa
 Bio:
 Dr. Cha Zhang is a Principal Applied Scientist Manager at Microsoft AI & Research. He received the B.S. and M.S. degrees from Tsinghua University, Beijing, China in 1998 and 2000, respectively, both in Electronic Engineering, and the Ph.D. degree in Electrical and Computer Engineering from Carnegie Mellon University, in 2004. Before joining the CNTK team, he spent over 10 years developing audio/image/video processing and machine learning techniques, and has published over 80 technical papers and held 30+ US patents. He won the best paper award at ICME 2007 and the best student paper award at ICME 2010. He was the Program Co-Chair for VCIP 2012, and the General Co-Chair for ICME 2016. He currently serves as an Associate Editor for IEEE Trans. on Circuits and Systems for Video Technology, and IEEE Trans. on Multimedia.
 
+**Dan Crankshaw** (UC Berkeley)
+
+Bio:
+Dan Crankshaw is a PhD student in the UC Berkeley CS department working in the RISELab. After cutting his teeth doing large-scale data analysis on cosmology simulation data and building systems for distributed graph analysis, he turned his attention to machine learning systems. His current research interests include systems and techniques for serving and deploying machine learning, with a particular emphasis on low-latency and interactive applications. He received a B.S. in Physics and Computer Science from Johns Hopkins University in 2013.
+
 ***
 
 ## Panelists

@@ -29,7 +29,7 @@
 
 [**ChainerMN: Scalable Distributed Deep Learning Framework**](assets/papers/paper_25.pdf): Takuya Akiba, Preferred Networks, Inc.; Keisuke Fukuda*, Preferred Networks, Inc.; Shuji Suzuki, Preferred Networks, Inc.
 
-**How Much Should We Invest for Network Facility**: Quantitative Analysis on Network ’Fatness’ and Machine Learning Performance: Hidemoto Nakada*, AIST
+[**How Much Should We Invest for Network Facility**](assets/papers/paper_4.pdf): Quantitative Analysis on Network ’Fatness’ and Machine Learning Performance: Hidemoto Nakada*, AIST
 
 [**DAWNBench: An End-to-End Deep Learning Benchmark and Competition**](assets/papers/paper_27.pdf): Cody Coleman*, Stanford; Deepak Narayanan, Stanford; Daniel Kang, Stanford University; Tian Zhao, Stanford University; Jian Zhang, Stanford; Luigi Nardi, Stanford; Peter Bailis, MIT and Stanford; Kunle Olukotun, Stanford University; Christopher Re, Stanford University; Matei Zaharia, Stanford and Databricks
 

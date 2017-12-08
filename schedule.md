@@ -45,7 +45,7 @@
 
 ***
 
-15:30 - 16:30 &nbsp;&nbsp;&nbsp;    Posters & Coffee
+15:40 - 16:30 &nbsp;&nbsp;&nbsp;    Posters & Coffee
 
 ***
 

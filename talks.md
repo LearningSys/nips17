@@ -101,20 +101,24 @@ Dan Crankshaw is a PhD student in the UC Berkeley CS department working in the R
 
 ## Panelists
 
-**Dawn Song** (UC Berkeley)
+**Garth Gibson** (CMU and Vector Institute)
+
+**Joseph Gonzalez** (UC Berkeley)
 
 Bio:
-Dawn Song is a Professor in the Department of Electrical Engineering and Computer Science at UC Berkeley. Her research interest lies in deep learning and security. She has studied diverse security and privacy issues in computer systems and networks, including areas ranging from software security, networking security, database security, distributed systems security, applied cryptography, to the intersection of machine learning and security. She is the recipient of various awards including the MacArthur Fellowship, the Guggenheim Fellowship, the NSF CAREER Award, the Alfred P. Sloan Research Fellowship, the MIT Technology Review TR-35 Award, the George Tallman Ladd Research Award, the Okawa Foundation Research Award, the Li Ka Shing Foundation Women in Science Distinguished Lecture Series Award, the Faculty Research Award from IBM, Google and other major tech companies, and Best Paper Awards from top conferences. She obtained her Ph.D. degree from UC Berkeley. Prior to joining UC Berkeley as a faculty, she was an Assistant Professor at Carnegie Mellon University from 2002 to 2007.
+Joseph Gonzalez is an assistant professor at UC Berkeley and co-director of the UC Berkeley RISE Lab where he studies the design of algorithms, abstractions, and systems for scalable machine learning.  Before joining UC Berkeley, Joseph co-founded Turi Inc. (formerly GraphLab) to develop AI tools for data scientists and later sold Turi to Apple. Joseph holds a PhD in Machine Learning from Carnegie Mellon University and is a member of the Apache Spark PMC.
+
+**Yangqing Jia** (Research Scientist in Applied ML, Facebook)
 
 **John Langford** (Microsoft Research)
 
 Bio:
 John Langford is a machine learning research scientist, a field which he says "is shifting from an academic discipline to an industrial tool".[1] He is the author of the weblog hunch.net and the principal developer of Vowpal Wabbit. John works at Microsoft Research New York, of which he was one of the founding members, and was previously affiliated with Yahoo! Research,[1] Toyota Technological Institute at Chicago, and IBM's Watson Research Center. He studied Physics and Computer Science at the California Institute of Technology, earning a double bachelor's degree in 1997, and received his Ph.D. in Computer Science from Carnegie Mellon University in 2002. He was the program co-chair for the 2012 International Conference on Machine Learning.[1]
 
-**Joseph Gonzalez** (UC Berkeley)
+**Dawn Song** (UC Berkeley)
 
 Bio:
-Joseph Gonzalez is an assistant professor at UC Berkeley and co-director of the UC Berkeley RISE Lab where he studies the design of algorithms, abstractions, and systems for scalable machine learning.  Before joining UC Berkeley, Joseph co-founded Turi Inc. (formerly GraphLab) to develop AI tools for data scientists and later sold Turi to Apple. Joseph holds a PhD in Machine Learning from Carnegie Mellon University and is a member of the Apache Spark PMC.
+Dawn Song is a Professor in the Department of Electrical Engineering and Computer Science at UC Berkeley. Her research interest lies in deep learning and security. She has studied diverse security and privacy issues in computer systems and networks, including areas ranging from software security, networking security, database security, distributed systems security, applied cryptography, to the intersection of machine learning and security. She is the recipient of various awards including the MacArthur Fellowship, the Guggenheim Fellowship, the NSF CAREER Award, the Alfred P. Sloan Research Fellowship, the MIT Technology Review TR-35 Award, the George Tallman Ladd Research Award, the Okawa Foundation Research Award, the Li Ka Shing Foundation Women in Science Distinguished Lecture Series Award, the Faculty Research Award from IBM, Google and other major tech companies, and Best Paper Awards from top conferences. She obtained her Ph.D. degree from UC Berkeley. Prior to joining UC Berkeley as a faculty, she was an Assistant Professor at Carnegie Mellon University from 2002 to 2007.
 
 
 

@@ -8,7 +8,7 @@
 
 09:20 - 09:40 &nbsp;&nbsp;&nbsp;     Contributed Talk:  The Case for Learning Database Indexes
 
-09:40 - 10:00 &nbsp;&nbsp;&nbsp;     Invited Talk: Federated Multi-Task Learning, Virginia Smith, Stanford University
+09:40 - 10:00 &nbsp;&nbsp;&nbsp;     Invited Talk: [Federated Multi-Task Learning](assets/slides/mocha-NIPS.pdf), Virginia Smith, Stanford University
 
 ***
 
@@ -34,7 +34,7 @@
 
 ### Session 4: ML Systems Updates (Chair: Aparna Lakshmiratan)
 
-13:20 - 14:50 &nbsp;&nbsp;&nbsp;    Updates from Current ML Systems: TensorFlow, PyTorch, Caffe2, CNTK, MXNet, TVM, Clipper, MacroBase, ModelDB
+13:20 - 14:50 &nbsp;&nbsp;&nbsp;    Updates from Current ML Systems: TensorFlow, PyTorch, Caffe2, CNTK, MXNet, [TVM](assets/slides/TVM-MLSys-NIPS17.pdf), Clipper, [MacroBase](assets/slides/macrobase-nips17-mlsys.pdf), ModelDB
 
 
 ### Session 5 (Chair: Yangqing Jia)

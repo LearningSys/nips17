@@ -24,7 +24,7 @@
 
 11:30 - 11:50 &nbsp;&nbsp;&nbsp;    Invited Talk: [Accelerating Persistent Neural Networks at Datacenter Scale](assets/slides/brainwave-nips17.pdf),  Daniel Lo, Microsoft Research
 
-11:50 - 12:10 &nbsp;&nbsp;&nbsp;    Contributed Talk: DLVM: A modern compiler framework for neural network DSLs
+11:50 - 12:10 &nbsp;&nbsp;&nbsp;    Contributed Talk: [DLVM: A modern compiler framework for neural network DSLs](assets/slides/dlvm.pdf)
 
 ***
 

@@ -41,7 +41,7 @@
 
 14:50 - 15:20 &nbsp;&nbsp;&nbsp;    Invited Talk:  Machine Learning for Systems and Systems for Machine Learning, Jeff Dean, Google Brain
 
-15:20 - 15:40 &nbsp;&nbsp;&nbsp;    Invited Talk:  Creating an Open and Flexible ecosystem for AI models with ONNX, Sarah Bird and Dmytro Dzhulgakov, Facebook Research
+15:20 - 15:40 &nbsp;&nbsp;&nbsp;    Invited Talk:  [Creating an Open and Flexible ecosystem for AI models with ONNX](assets/slides/ONNX-workshop.pdf), Sarah Bird and Dmytro Dzhulgakov, Facebook Research
 
 ***
 

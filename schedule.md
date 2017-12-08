@@ -34,7 +34,7 @@
 
 ### Session 4: ML Systems Updates (Chair: Aparna Lakshmiratan)
 
-13:20 - 14:50 &nbsp;&nbsp;&nbsp;    Updates from Current ML Systems: [TensorFlow](assets/slides/tensorflow-nips17.pdf), [PyTorch](assets/slides/pytorch-nips17.pdf), Caffe2, [CNTK](assets/slides/cntk-nips17.pdf), [MXNet](assets/slides/mxnet-sysml-17.pdf), [TVM](assets/slides/TVM-MLSys-NIPS17.pdf), [Clipper](assets/slides/clipper-nips17.pdf), [MacroBase](assets/slides/macrobase-nips17-mlsys.pdf), [ModelDB](assets/slides/modeldb-nips17.pdf)
+13:20 - 14:50 &nbsp;&nbsp;&nbsp;    Updates from Current ML Systems: [TensorFlow](assets/slides/tensorflow-nips17.pdf), [PyTorch](assets/slides/pytorch-nips17.pdf), Caffe2, [CNTK](assets/slides/cntk-nips17.pptx), [MXNet](assets/slides/mxnet-sysml-17.pdf), [TVM](assets/slides/TVM-MLSys-NIPS17.pdf), [Clipper](assets/slides/clipper-nips17.pdf), [MacroBase](assets/slides/macrobase-nips17-mlsys.pdf), [ModelDB](assets/slides/modeldb-nips17.pdf)
 
 
 ### Session 5 (Chair: Yangqing Jia)

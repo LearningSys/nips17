@@ -34,12 +34,12 @@
 
 ### Session 4: ML Systems Updates (Chair: Aparna Lakshmiratan)
 
-13:20 - 14:50 &nbsp;&nbsp;&nbsp;    Updates from Current ML Systems: [TensorFlow](assets/slides/tensorflow-nips17.pdf), [PyTorch](assets/slides/pytorch-nips17.pdf), Caffe2, [CNTK](assets/slides/cntk-nips.pptx), [MXNet](assets/slides/mxnet-sysml-17.pdf), [TVM](assets/slides/TVM-MLSys-NIPS17.pdf), [Clipper](assets/slides/clipper-nips17.pdf), [MacroBase](assets/slides/macrobase-nips17-mlsys.pdf), [ModelDB](assets/slides/modeldb-nips17.pdf)
+13:20 - 14:50 &nbsp;&nbsp;&nbsp;    Updates from Current ML Systems: [TensorFlow](assets/slides/tensorflow-nips17.pdf), [PyTorch](assets/slides/pytorch-nips17.pdf), [Caffe2](assets/slides/caffe2-nips17.pdf), [CNTK](assets/slides/cntk-nips.pptx), [MXNet](assets/slides/mxnet-sysml-17.pdf), [TVM](assets/slides/TVM-MLSys-NIPS17.pdf), [Clipper](assets/slides/clipper-nips17.pdf), [MacroBase](assets/slides/macrobase-nips17-mlsys.pdf), [ModelDB](assets/slides/modeldb-nips17.pdf)
 
 
 ### Session 5 (Chair: Yangqing Jia)
 
-14:50 - 15:20 &nbsp;&nbsp;&nbsp;    Invited Talk:  Machine Learning for Systems and Systems for Machine Learning, Jeff Dean, Google Brain
+14:50 - 15:20 &nbsp;&nbsp;&nbsp;    Invited Talk:  [Machine Learning for Systems and Systems for Machine Learning](assets/slides/dean-nips17.pdf), Jeff Dean, Google Brain
 
 15:20 - 15:40 &nbsp;&nbsp;&nbsp;    Invited Talk:  [Creating an Open and Flexible ecosystem for AI models with ONNX](assets/slides/ONNX-workshop.pdf), Sarah Bird and Dmytro Dzhulgakov, Facebook Research
 

@@ -103,6 +103,10 @@ Dan Crankshaw is a PhD student in the UC Berkeley CS department working in the R
 
 **Garth Gibson** (CMU and Vector Institute)
 
+Until 2018, Gibson is a full professor of Computer Science at Carnegie Mellon University (CMU), with a courtesy appointment in the Department of Electrical and Computer Engineering, and the Associate Dean for Master’s Programs in the School of Computer Science at CMU.  His PhD (1991) and MS are from University of California, Berkeley, under David Patterson, and my Bachelor of Mathematics is from the University of Waterloo in Canada.  He is a Fellow of the ACM and the IEEE, and a holder of research awards including SIGOPS Hall of Fame, Jean-Claude Laprie Dependable Computing award, SIGMOD Test of Time award, IEEE Reynold B. Johnson Information Storage award, J. Wesley Graham Medal in Computing and Innovation, and a Los Alamos National Laboratory Outstanding Innovation award.
+
+Starting in 2018, Gibson will be the inaugural President and CEO of the Vector Institute for AI in Toronto Canada.  Vector, whose leadership also includes Rich Zemel and Geoff Hinton, is already 20 researchers. It's mission includes research innovation, graduate education, consortium (35 companies) collaboration and startup fostering.
+
 **Joseph Gonzalez** (UC Berkeley)
 
 Bio:

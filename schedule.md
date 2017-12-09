@@ -51,7 +51,7 @@
 
 ### Session 6 (Chair: Dan Crankshaw)
 
-16:30 - 16:50 &nbsp;&nbsp;&nbsp;    Contributed Talk: NSML: A Machine Learning Platform That Enables You to Focus on Your Models
+16:30 - 16:50 &nbsp;&nbsp;&nbsp;    Contributed Talk: [NSML: A Machine Learning Platform That Enables You to Focus on Your Models](assets/slides/nsml_slides.pdf)
 
 16:50 - 17:10 &nbsp;&nbsp;&nbsp;    Contributed Talk: DAWNBench: An End-to-End Deep Learning Benchmark and Competition
 

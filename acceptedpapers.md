@@ -33,7 +33,7 @@
 
 [**DAWNBench: An End-to-End Deep Learning Benchmark and Competition**](assets/papers/paper_27.pdf): Cody Coleman*, Stanford; Deepak Narayanan, Stanford; Daniel Kang, Stanford University; Tian Zhao, Stanford University; Jian Zhang, Stanford; Luigi Nardi, Stanford; Peter Bailis, MIT and Stanford; Kunle Olukotun, Stanford University; Christopher Re, Stanford University; Matei Zaharia, Stanford and Databricks
 
-[**Tangent: Automatic Differentiation Using Source Code Transformation in Python**](assets/papers/paper_28.pdf): Alexander Wiltschko*, Google Inc.
+[**Tangent: Automatic Differentiation Using Source Code Transformation in Python**](assets/papers/paper_28.pdf): Alexander Wiltschko*, Bart van Merriënboer, Alexander B Wiltschko, Dan Moldovan, Google Inc.
 
 [**Scalable Multi-Framework Multi-Tenant Lifecycle Management of Deep Learning Training Jobs**](assets/papers/paper_29.pdf): Waldemar Hummer*, IBM Research; Vinod Muthusamy, IBM Research; Jayaram K. R., IBM Research
 

@@ -53,7 +53,7 @@
 
 16:30 - 16:50 &nbsp;&nbsp;&nbsp;    Contributed Talk: NSML: A Machine Learning Platform That Enables You to Focus on Your Models
 
-16:50 - 17:10 &nbsp;&nbsp;&nbsp;    Contributed Talk: DAWNBench: An End-to-End Deep Learning Benchmark and Competition
+16:50 - 17:10 &nbsp;&nbsp;&nbsp;    Contributed Talk: [DAWNBench: An End-to-End Deep Learning Benchmark and Competition](assets/slides/dawn-nips17.pptx)
 
 
 ### Session 7 (Chair: Siddhartha Sen)

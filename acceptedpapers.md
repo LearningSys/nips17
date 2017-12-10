@@ -7,7 +7,7 @@
 
 [**CatBoost: gradient boosting with categorical features support**](assets/papers/paper_11.pdf): Anna Veronika Dorogush*, Yandex; Vasily Ershov, Yandex; Andrey Gulin, Yandex
 
-[**UberShuffle: Faster Distributed Learning via Erasure Coded Data Shuffling**](assets/papers/paper_12.pdf): Jichan Chung*, EE at KAIST; Kangwook Lee, EE at KAIST; Ramtin Pedersani, ECE at UC Santa Barbara; Dimitris Papailiopoulos, ECE at University of Wisconsin-Madison; Kannan Ramchandran, EECS at UC Berkeley
+[**UberShuffle: Communication-efficient Data Shuffling for SGD via Coding Theory**](assets/papers/paper_12.pdf): Jichan Chung*, EE at KAIST; Kangwook Lee, EE at KAIST; Ramtin Pedersani, ECE at UC Santa Barbara; Dimitris Papailiopoulos, ECE at University of Wisconsin-Madison; Kannan Ramchandran, EECS at UC Berkeley
 
 [**Automatically Tracking Metadata and Provenance of Machine Learning Experiments**](assets/papers/paper_13.pdf): Sebastian Schelter*, Amazon; Joos-Hendrik Boese, Amazon; Johannes Kirschnick, Amazon; Thoralf Klein, Amazon; Stephan Seufert, Amazon
 

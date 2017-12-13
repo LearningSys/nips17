@@ -43,6 +43,6 @@
 
 [**Synkhronos: a Multi-GPU Theano Extension for Data Parallelism**](assets/papers/paper_36.pdf): Adam Stooke*, UC Berkeley; Pieter Abbeel, UC Berkeley
 
-[**Cavs: A Vertex-centric Programming Interface for Dynamic Neural Networks**](assets/papers/paper_37.pdf): Shizhen Xu, Tsinghua University; Hao Zhang*, Carnegie Mellon University; Graham Neubig, Carnegie Mellon University; Wei Dai, Carnegie Mellon University; Qirong Ho, Institute for Infocomm Research; Guangwen Yang, Tsinghua University; Eric Xing, CMU
+[**Cavs: A Vertex-centric Programming Interface for Dynamic Neural Networks**](assets/papers/paper_37.pdf): Shizhen Xu, Tsinghua University; Hao Zhang*, Carnegie Mellon University; Graham Neubig, Carnegie Mellon University; Wei Dai, Carnegie Mellon University; Qirong Ho, Institute for Infocomm Research; Guangwen Yang, Tsinghua University; Eric Xing, Petuum Inc.
 
 

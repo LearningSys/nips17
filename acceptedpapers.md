@@ -35,7 +35,7 @@
 
 [**Tangent: Automatic Differentiation Using Source Code Transformation in Python**](assets/papers/paper_28.pdf): Bart van Merriënboer, Alexander B Wiltschko*, Dan Moldovan, Google Inc.
 
-[**Scalable Multi-Framework Multi-Tenant Lifecycle Management of Deep Learning Training Jobs**](assets/papers/paper_29.pdf): Waldemar Hummer*, IBM Research; Vinod Muthusamy, IBM Research; Jayaram K. R., IBM Research
+[**Scalable Multi-Framework Multi-Tenant Lifecycle Management of Deep Learning Training Jobs**](assets/papers/paper_29.pdf): Scott Boag, Parijat Dube, Benjamin Herta*, Waldemar Hummer, Vatche Ishakian, K. R. Jayaram, Michael Kalantar, Vinod Muthusamy, Priya Nagpurkar, Florian Rosenberg; IBM Research
 
 [**NSML: A Machine Learning Platform That Enables You to Focus on Your Models**](assets/papers/paper_32.pdf): Nako Sung, NAVER; Minkyu Kim, NAVER; Hyunwoo Jo, NAVER; Youngil Yang, NAVER; Jinwoong Kim, NAVER; Leonard Lausen, NAVER & HKUST; Youngkwan Kim, NAVER; Gayoung Lee, NAVER Webtoon; Donghyun Kwak, Search Solution Inc; Jung Woo Ha*, Naver; Sung Kim, NAVER & HKUST
 
